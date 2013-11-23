@@ -121,7 +121,7 @@
 * plus facile pour les développeurs
     * Flex
     * JSF
-* plus complexe pour les développeurs jQuery
+* plus déroutant pour les développeurs jQuery
     * habitudes à désapprendre
 
 !SLIDE bullets ====================
@@ -133,6 +133,24 @@
 * ex: dans une appli PHP + Prototype
 * ex: dans une appli SharePoint (!)
 
+
+!SLIDE subsection ===============================
+
+# composants ?
+
+!SLIDE bullets ====================
+
+# composants
+
+* AngularUI
+* UI Bootstrap
+    * natif AngularJS avec CSS Bootstrap
+* **ionic** framework
+    * tout frais (alpha) !
+
+!SLIDE ===============================
+
+# faciles à écrire
 
 !SLIDE subsection ===============================
 
